@@ -1,7 +1,7 @@
 # Derivation of Fundamental Electronic Properties from Holographic Scaling and Topological Constraints in a Reactive Universe
 
-**Authors:** Douglas H. M. fULBER
-**Affiliation:** FEDERAL UNIVERSITY RIO DE JANEIRO
+**Authors:** Douglas H. M. Fulber  
+**Affiliation:** Federal University of Rio de Janeiro (UFRJ)  
 **Date:** December 31, 2025  
 **Target Journal:** Physical Review Letters
 

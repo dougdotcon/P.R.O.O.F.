@@ -227,10 +227,6 @@ print(f"Spin: {spin}")  # 5.2729e-35 J.s
 A TEORIA DE TUDO/
 |
 |-- ajuste_fino/
-|   |-- 1_Corpus_Teorico/
-|   |   |-- FT-PHY-001-pt-fisica-teorica-computacional-v1.0.md
-|   |   |-- FT-PHY-EG-001-pt-gravidade-entropica-v1.0.md
-|   |
 |   |-- 2_Motores_de_Fisica/
 |   |   |-- quantum_geometry_solver.py      # Fractal mass scaling
 |   |   |-- static_stability_analysis.py    # Energy minimization
